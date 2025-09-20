@@ -1,0 +1,11 @@
+[project]
+name = "tournament"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.Esport]
+path = "contracts/Esport.clar"
+depends_on = []
